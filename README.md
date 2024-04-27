@@ -1,4 +1,6 @@
-MediAid: Your Comprehensive First Aid Assistant
+MediAid: 
+
+Your Comprehensive First Aid Assistant
 MediAid is a web-based first aid application designed to provide users with quick and accurate first aid information and emergency assistance. Leveraging GEMINI APIs, MediAid offers a range of features to help users handle medical emergencies effectively and efficiently.
 
 Key Features:
