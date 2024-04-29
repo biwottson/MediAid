@@ -40,10 +40,3 @@ Set up environment variables for GEMINI API access.
 Run the app using npm start.
 Access the app via your web browser at http://localhost:3000.
 
-Contributors:
- - Project Manager
-- Lead Developer
- - UI/UX Designer
- - Backend Developer
-License:
-This project is licensed under the MIT License
